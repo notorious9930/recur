@@ -20,4 +20,10 @@ int digitalSum(int a)
 int main()
 {
  cout << digitalSum(1234) << endl;
+ cout << digitalSum(456) << endl;
+ cout << digitalSum(839) << endl;
+ cout << digitalSum(4444) << endl;
+ cout << digitalSum(211) << endl;
+ cout << digitalSum(484884) << endl;
+ cout << digitalSum(84848822) << endl;
 }
